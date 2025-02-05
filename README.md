@@ -40,7 +40,7 @@ Finally, demonstrating the Serial Monitor update the current button states when 
 ## Development Environment
 
 This project was developed using Vivado 2023.2 to design our hardware, and export our XSA file. Our
-XSA file was then Imported into the Vitis 2024.2 Unified IDE, where the program running on the microcontroller was written and compiled in C.
+XSA file was then Imported into the Vitis 2024.2 Unified IDE, where the program running on the microcontroller was written in and compiled with C.
 
 ## Useful Websites
 
