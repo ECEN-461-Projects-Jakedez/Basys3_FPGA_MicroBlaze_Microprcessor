@@ -1,4 +1,4 @@
-# Rust-on-Arduino
+# Basys3 FPGA MicroBlaze Microcontroller
 ## Overview
 
 This Project demonstrates using a Basys3 FPGA as a Microcontroller; using Vivado to create a Block Design for a
